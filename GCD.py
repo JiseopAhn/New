@@ -3,4 +3,5 @@
         a, b = b, a % b
     return a
 
-print(gcd(91, 35))
+print(gcd(1, 35))
+print(hello)
